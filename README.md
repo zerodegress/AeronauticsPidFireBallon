@@ -11,7 +11,11 @@
 
 ## 响应曲线图
 
-1. ![开环控制（设定红石信号13）](./images/response_curve_openloop.png)
-2. ![闭环控制](./images/response_curve.png)
-3. ![开环控制（设定红石信号13，有干扰）](./images/response_curve_openloop_disturb.png)
-4. ![闭环控制（有干扰）](./images/response_curve_disturb.png)
+1. 开环控制（设定红石信号13）
+  ![开环控制（设定红石信号13）](./images/response_curve_openloop.png)
+2. 闭环控制
+  ![闭环控制](./images/response_curve.png)
+3. 开环控制（设定红石信号13，有干扰）
+  ![开环控制（设定红石信号13，有干扰）](./images/response_curve_openloop_disturb.png)
+4. 闭环控制（有干扰）
+  ![闭环控制（有干扰）](./images/response_curve_disturb.png)
